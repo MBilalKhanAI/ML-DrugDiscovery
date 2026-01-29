@@ -1,0 +1,9 @@
+Model Training Results:
+Model                     | R2 Score   | RMSE      
+--------------------------------------------------
+Linear Regression         | 0.4347     | 0.7356
+Random Forest             | 0.5044     | 0.6888
+Gradient Boosting         | 0.3711     | 0.7759
+Bagging Regressor         | 0.4594     | 0.7193
+--------------------------------------------------
+Best: Random Forest (R2=0.5044)
