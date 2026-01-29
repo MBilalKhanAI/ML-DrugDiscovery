@@ -85,4 +85,4 @@ You can run the pipeline step-by-step using the scripts in `src/`:
 ## 🤝 Contact
 For questions or collaborations, please reach out:
 *   **Muhammad Bilal Khan**
-*   📧 drmbilalkhan172@gmail.com
+*   📧 drmbilal172@gmail.com
