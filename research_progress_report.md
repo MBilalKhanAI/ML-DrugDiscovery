@@ -109,5 +109,5 @@ Use of rigorous validation confirms that **Molecular Shape (MID_N)** and **Volum
 ---
 
 ## 6. Conclusion
-We have successfully reproduced the core machine learning pipeline of the Aromatase Inhibitor study. While our absolute $R^2$ values are slightly lower than the original paper (likely due to the use of Mordred vs. Dragon descriptors), the **relative ranking of models** (Random Forest > GBM > Linear Regression) matches perfectly. The identification of key 3D/Topological descriptors confirms the importance of structural geometry in binding affinity.
+I have successfully reproduced the core machine learning pipeline of the Aromatase Inhibitor study. While my absolute $R^2$ values are slightly lower than the original paper (likely due to the use of Mordred vs. Dragon descriptors), the **relative ranking of models** (Random Forest > GBM > Linear Regression) matches perfectly. The identification of key 3D/Topological descriptors confirms the importance of structural geometry in binding affinity.
 
