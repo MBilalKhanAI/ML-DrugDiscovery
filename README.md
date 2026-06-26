@@ -4,9 +4,9 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 **Author:** Muhammad Bilal Khan  
-**Email:** drmbilal172@gmail.com  
+**Email:** khan.muhammadbilal654@gmail.com  
 
-## 📌 Project Overview
+## Project Overview
 This repository contains the complete reproduction and enhancement of the research paper *"Machine Learning-Assisted Prediction of the Biological Activity of Aromatase Inhibitors"*. We have successfully implemented a robust QSAR (Quantitative Structure-Activity Relationship) pipeline to predict the pIC50 of Aromatase inhibitors using open-source tools.
 
 **Key Achievements:**
@@ -16,7 +16,7 @@ This repository contains the complete reproduction and enhancement of the resear
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 The project is organized into modular directories for clarity and reproducibility.
 
 ```
@@ -42,7 +42,7 @@ AROMATASE-PROJECT/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure you have Python 3.8+ installed. Install the required libraries:
@@ -70,7 +70,7 @@ You can run the pipeline step-by-step using the scripts in `src/`:
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 | Model | Mean $R^2$ (10-Fold CV) | Mean RMSE |
 | :--- | :--- | :--- |
