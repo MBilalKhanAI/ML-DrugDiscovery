@@ -80,9 +80,3 @@ You can run the pipeline step-by-step using the scripts in `src/`:
 
 *See [research_progress_report.md](research_progress_report.md) for the detailed scientific analysis.*
 
----
-
-## 🤝 Contact
-For questions or collaborations, please reach out:
-*   **Muhammad Bilal Khan**
-*   📧 drmbilal172@gmail.com
