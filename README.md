@@ -92,4 +92,4 @@ If you utilize this framework or code in your research, please consider attribut
 
 > Khan, M. B. (2026). *State-of-the-Art Ensemble Machine Learning Framework for Aromatase Inhibitor Prediction.* GitHub Repository.
 
-*For inquiries regarding PhD opportunities or research collaborations, please reach out via email.*
+*For inquiries regarding opportunities or research collaborations, please reach out via email.*
