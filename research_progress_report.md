@@ -103,7 +103,7 @@ We performed GridSearch Hyperparameter Tuning followed by rigorous 10-Fold Cross
 Use of rigorous validation confirms that **Molecular Shape (MID_N)** and **Volume Distribution (AATS5v)** are the primary drivers of Aromatase inhibition, aligning with the biological necessity of fit within the enzyme active site.
 
 ---
-**Author:** Muhammad Bilal Khan (drmbilalkhan172@gmail.com)
+**Author:** Muhammad Bilal Khan (khan.muhammadbilal654@gmail.com)
 
 
 ---
